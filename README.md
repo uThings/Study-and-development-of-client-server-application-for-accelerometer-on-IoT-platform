@@ -1,0 +1,1 @@
+# Study-and-development-of-client-server-application-for-accelerometer-on-IoT-platform
